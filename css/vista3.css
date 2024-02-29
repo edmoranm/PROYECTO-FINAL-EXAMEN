@@ -7,7 +7,7 @@
     color: black;
     text-align: center;
     font-family: 'Franklin Gothic Medium';
-    background-color: brown;
+    background-color: rgba(165, 42, 42, 0.614);
     border: solid;
     border-color: black;
     font-size: 2cm;
@@ -98,7 +98,7 @@
 
 
 #div1 {
-    background-color: brown;
+    background-color: rgba(165, 42, 42, 0.652);
     width: 45%;
     margin-left: 27%;
     border: solid;

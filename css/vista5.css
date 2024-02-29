@@ -101,7 +101,7 @@
 
 
 #div1 {
-    background-color: white;
+    background-color: rgba(255, 255, 255, 0.227);
     width: 45%;
     margin-left: 27%;
     border: solid;
@@ -110,7 +110,7 @@
   
     background-size: cover;
     background-repeat: repeat;
-    border-width: 5mm;
+    border-width: 3mm;
     text-align: center;
     text-shadow: 5px 5px 5px skyblue;
     font-size: 1cm;
